@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)
 
 <h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oi6ggx0w92taky2ilso2m6erizyeqtcliw9ennws&rid=giphy.gif&ct=g">
 
