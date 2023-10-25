@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Using Python.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/surya-nattzz1</h3>
 <p align="left">
 </p>
 
