@@ -6,31 +6,29 @@
 
 # <Your Name>
 
-👋 Hello there! I'm <Your Name>, a passionate individual aspiring to build a career in Data Engineering using Python.
+👋 Hello there! I'm Surya Nattarayasamy, a passionate individual aspiring to build a career in Data Engineering using Python.
 
 ## 🚀 About Me
 
-- 🎓 Recent graduate with a degree in <Your Degree>.
+- 🎓 Recent graduate with a degree in B.Sc Computer Science.
 - 💻 Currently honing my skills in Python, SQL, and data engineering technologies.
 - 🌱 Eager to learn and contribute to real-world data engineering projects.
 - 🤝 Open to collaboration and connecting with like-minded professionals.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python
-- **Data Technologies:** SQL, Apache Spark, Apache Kafka
-- **Databases:** MySQL, PostgreSQL
-- **ETL Tools:** Apache NiFi
+- **Programming Languages:** Python,C ,C++
+- **Data Technologies:** SQL, Flask, DeepLearning Models.
+- **Databases:** MySQL, MongoDB
 - **Version Control:** Git
-- **Other:** Data Modeling, Data Warehousing
 
 ## 📚 Learning
 
 I'm actively learning and exploring topics such as:
 
 - Advanced Python for Data Engineering
-- Big Data Technologies like Hadoop
-- Cloud Platforms: AWS, Google Cloud
+- Machine Learning Algorithms
+- Deep Learning models
 
 ## 📊 Projects
 
