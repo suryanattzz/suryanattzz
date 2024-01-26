@@ -1,7 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)
 
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oi6ggx0w92taky2ilso2m6erizyeqtcliw9ennws&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanattzz&label=Profile%20views&color=0e75b6&style=flat" alt="suryanattzz" /> </p>
 
