@@ -34,7 +34,7 @@ I'm actively learning and exploring topics such as:
 
 Here are a few projects I've worked on:
 
-- [Project 1 Name](link-to-repo) - Brief description.
+- [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application python and flask.
 - [Project 2 Name](link-to-repo) - Brief description.
 - [Project 3 Name](link-to-repo) - Brief description.
 
