@@ -42,9 +42,8 @@ Here are a few projects I've worked on:
 
 Let's connect! Feel free to reach out for collaboration, discussions, or just to say hi:
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Email](your-email)
+- [LinkedIn](in/surya-nattzz1)
+- [Email](suryanattarayasamy@gmail.com)
 
 ## 🙏 Acknowledgments
 
