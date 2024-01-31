@@ -1,7 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanattzz&label=Profile%20views&color=0e75b6&style=flat" alt="suryanattzz" /> </p>
 
 # <Your Name>
@@ -35,8 +34,8 @@ I'm actively learning and exploring topics such as:
 Here are a few projects I've worked on:
 
 - [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application python and flask.
-- [Project 2 Name](link-to-repo) - Brief description.
-- [Project 3 Name](link-to-repo) - Brief description.
+- [Sentiment Analysis Api]() - Brief description.
+- [Sentiment Analysis Models]([link-to-repo](https://github.com/suryanattzz/Sentiment_analysis_models)) - Brief description.
 
 ## 📫 Connect with Me
 
