@@ -34,7 +34,7 @@ I'm actively learning and exploring topics such as:
 Here are a few projects I've worked on:
 
 - [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application python and flask.
-- [Sentiment Analysis Api]() - Brief description.
+- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - 
 - [Sentiment Analysis Models](https://github.com/suryanattzz/Sentiment_analysis_models) - Brief description.
 
 ## 📫 Connect with Me
