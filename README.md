@@ -33,9 +33,9 @@ I'm actively learning and exploring topics such as:
 
 Here are a few projects I've worked on:
 
-- [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application python and flask.
-- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - 
-- [Sentiment Analysis Models](https://github.com/suryanattzz/Sentiment_analysis_models) - Brief description.
+- [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application using python and flask.
+- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - Simple Sentiment Analysis Api using flask.
+- [Sentiment Analysis Models](https://github.com/suryanattzz/Sentiment_analysis_models) - Sentiment analysis models for different types of text data: Tweets, Movie Reviews, and Generic Text.
 
 ## 📫 Connect with Me
 
