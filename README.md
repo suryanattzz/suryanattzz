@@ -35,7 +35,7 @@ Here are a few projects I've worked on:
 
 - [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application python and flask.
 - [Sentiment Analysis Api]() - Brief description.
-- [Sentiment Analysis Models]([link-to-repo](https://github.com/suryanattzz/Sentiment_analysis_models)) - Brief description.
+- [Sentiment Analysis Models](https://github.com/suryanattzz/Sentiment_analysis_models) - Brief description.
 
 ## 📫 Connect with Me
 
