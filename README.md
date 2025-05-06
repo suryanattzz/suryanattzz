@@ -36,9 +36,9 @@ I'm actively learning and exploring topics such as:
 
 Here are a few projects I've worked on:
 
-- [Bank App](https://github.com/suryanattzz/Bank_Flask) - Simple Bank App application using python and flask.
-- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - Simple Sentiment Analysis Api using flask.
-- [Sentiment Analysis Models](https://github.com/suryanattzz/Sentiment_analysis_models) - Sentiment analysis models for different types of text data: Tweets, Movie Reviews, and Generic Text.
+- [Bank App](https://github.com/suryanattzz/Bank_Flask) - Bank App application using python and flask.
+- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - Sentiment Analysis Api using flask.
+- [Real Time Object Detection](https://github.com/suryanattzz/Real_Time_Object_Tracking) - Real-time object tracking using YOLOv8 and OpenCV. The model detects and tracks objects in a live video feed using a webcam.
 
 ## 📫 Connect with Me
 
