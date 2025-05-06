@@ -9,17 +9,20 @@
 
 ## 🚀 About Me
 
-- 🎓 Recent graduate with a degree in B.Sc Computer Science.
+- 🎓 Currently Pursuing an degree in M.Sc Computer Science at Sri Krishna Arts and Science College.
 - 💻 Currently honing my skills in Python, SQL, and data engineering technologies.
 - 🌱 Eager to learn and contribute to real-world data engineering projects.
 - 🤝 Open to collaboration and connecting with like-minded professionals.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python,C ,C++
-- **Data Technologies:** SQL, Flask, DeepLearning Models.
-- **Databases:** MySQL, MongoDB
-- **Version Control:** Git
+- **Programming Languages:** Python,COre Java.
+- **Web Development:** HTML,CSS, Flask.
+- **Tools & Platforms:** Jupyter Notebook, PyCharm, Visual Studio Code.
+- **Data Science & Machine Learning:** Pandas, NumPy, Machine Learning Algorithms, Deep Learning Algorithms.
+- **Databases:** MySQL, MongoDB.
+- **Version Control:** Git.
+  
 
 ## 📚 Learning
 
