@@ -37,9 +37,10 @@ I'm actively learning and exploring topics such as:
 Here are a few projects I've worked on:
 
 - [Bank App](https://github.com/suryanattzz/Bank_Flask) - Bank App application using python and flask.
-- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - Sentiment Analysis Api using flask.
+- [Sentiment Analysis Flask Api](https://github.com/suryanattzz/Sentiment_analysis_flask_api) - Sentiment Analysis API using flask.
 - [Real Time Object Detection](https://github.com/suryanattzz/Real_Time_Object_Tracking) - Real-time object tracking using YOLOv8 and OpenCV. The model detects and tracks objects in a live video feed using a webcam.
-
+- [Smart ATS using NLP & ML](https://github.com/suryanattzz/Apllicant-Tracking-System-) - Resume Parsing\Screening API Using NLP and ML.
+  
 ## 📫 Connect with Me
 
 Let's connect! Feel free to reach out for collaboration, discussions, or just to say hi:
