@@ -5,7 +5,7 @@
 
 # <Your Name>
 
-👋 Hello there! I'm Surya Nattarayasamy, a passionate individual aspiring to build a career in Data Engineering using Python.
+👋 Hello there! I'm Surya Nattarayasamy, a passionate individual looking for Opportunities in Data Engineering and AI.
 
 ## 🚀 About Me
 
