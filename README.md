@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently Pursuing an degree in M.Sc Computer Science at Sri Krishna Arts and Science College.
-- 💻 Currently honing my skills in Python, SQL, and data engineering technologies.
+- 🎓 Recently graduated in M.Sc Computer Science from Sri Krishna Arts and Science College.
+- 💻 Currently honing my skills in Python, SQL, Pyspark and data engineering technologies.
 - 🌱 Eager to learn and contribute to real-world data engineering projects.
 - 🤝 Open to collaboration and connecting with like-minded professionals.
 
